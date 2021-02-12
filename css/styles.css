@@ -1,5 +1,11 @@
 body {
-    background: url("../img/pexels-steve-johnson-1484759.jpg") no-repeat center fixed;
+    /*background: url("../img/A.png") no-repeat center ;
+    background-size: cover; */
+   /* background-image: url("../img/A.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background: url("../img/1920x1920.png") center;
     background-size: cover;
 }
 
@@ -15,14 +21,16 @@ body {
     text-align: right;
 }
 
-/*.navbar-toggler-icon {
-    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
-} */
-/*
-.navbar-toggler {
-    background: none;
-}*/
-
 .dropdown-menu {
     background: none;
+}
+
+.site-footer {
+    background-color: teal;
+    padding: 20px 0;
+}
+
+.btn-round {
+    width: 90%;
+    border-radius:  20px;
 }
