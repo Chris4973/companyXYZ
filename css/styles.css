@@ -50,9 +50,9 @@ footer {
     background: none;
 }
 
-.site-footer {
-    background-color: teal;
-    padding: 20px 0;
+.footer{
+    bottom: 0;
+    top: auto;
 }
 
 .btn-round {
