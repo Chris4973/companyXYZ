@@ -42,8 +42,9 @@ footer {
 }
 
 .btn-round {
-    width: 90%;
+    width: 100%;
     border-radius:  20px;
+    align-self: center;
 }
 
 .button-more {
